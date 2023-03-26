@@ -1,0 +1,5 @@
+REQUIREMENTS
+VsCode or PyCharm
+Django (version 3.0 or higher)
+djangorestframework
+Python (version 3.6 or higher)
